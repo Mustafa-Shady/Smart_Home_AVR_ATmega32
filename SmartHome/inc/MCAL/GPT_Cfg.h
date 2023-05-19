@@ -1,0 +1,13 @@
+/*
+ * GPT_Cfg.h
+ *
+ *  Created on: Apr 8, 2023
+ *      Author: 20115
+ */
+
+#ifndef INC_MCAL_GPT_CFG_H_
+#define INC_MCAL_GPT_CFG_H_
+
+
+
+#endif /* INC_MCAL_GPT_CFG_H_ */

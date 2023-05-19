@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "i2c_interface.h": "c",
+        "eeprom_interface.h": "c",
+        "bit_maths.h": "c",
+        "std_types.h": "c",
+        "i2c_private.h": "c",
+        "i2c_config.h": "c",
+        "delay.h": "c",
+        "dio_interface.h": "c",
+        "typeinfo": "c",
+        "lcd_interface.h": "c",
+        "lcd_cfg.h": "c",
+        "gpt_interface.h": "c",
+        "uart_interface.h": "c",
+        "led_interface.h": "c",
+        "gpt_private.h": "c",
+        "pwm_private.h": "c",
+        "pwm_interface.h": "c"
+    }
+}

@@ -1,0 +1,21 @@
+/*
+ * KEYBAD_Cfg.h
+ *
+ *  Created on: Apr 1, 2023
+ *      Author: shady
+ */
+
+#ifndef INC_HAL_KEYBAD_CFG_H_
+#define INC_HAL_KEYBAD_CFG_H_
+#include <MCAL/DIO_interface.h>
+
+#define KEYPAD_PIN_R1   DIO_PORTA,DIO_PIN0
+#define KEYPAD_PIN_R2   DIO_PORTA,DIO_PIN1
+#define KEYPAD_PIN_R3   DIO_PORTA,DIO_PIN2
+#define KEYPAD_PIN_R4   DIO_PORTA,DIO_PIN3
+#define KEYPAD_PIN_C1   DIO_PORTA,DIO_PIN4
+#define KEYPAD_PIN_C2   DIO_PORTA,DIO_PIN5
+#define KEYPAD_PIN_C3   DIO_PORTA,DIO_PIN6
+#define KEYPAD_PIN_C4   DIO_PORTA,DIO_PIN7
+
+#endif /* INC_HAL_KEYBAD_CFG_H_ */
