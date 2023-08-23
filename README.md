@@ -1,3 +1,4 @@
+Developing a system to unlock a door using a password, and control room lights and devices.
 # Smart_Home_AVR_ATmega32
  /**
      * SMART HOME AVR PROJECT
